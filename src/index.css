@@ -1,0 +1,43 @@
+.iya {
+  text-align: center;
+  color: orange;
+}
+
+#form {
+  padding-top: 10px;
+  padding-bottom: 45px;
+}
+
+.border {
+  margin: auto;
+  border-style: solid;
+  border-radius: 20px;
+  width: 67%;
+  background-color: whitesmoke;
+}
+
+#bullet {
+  text-align: left;
+  padding-left: 15%;
+  padding-right: 18%;
+  color: black;
+}
+
+#pantat {
+  padding-top: 30px;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
